@@ -1,6 +1,8 @@
 mac-java-launcher
 =================
 
+[![Join the chat at https://gitter.im/yhon-acurio/mac-java-launcher](https://badges.gitter.im/yhon-acurio/mac-java-launcher.svg)](https://gitter.im/yhon-acurio/mac-java-launcher?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Launcher for bundled java applications on Mac OS
 
 Usage is simple:
